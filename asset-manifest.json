@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/employee-form-app/static/css/main.92f26475.css",
-    "main.js": "/employee-form-app/static/js/main.9a1e80f3.js",
+    "main.js": "/employee-form-app/static/js/main.6553749a.js",
     "index.html": "/employee-form-app/index.html",
     "main.92f26475.css.map": "/employee-form-app/static/css/main.92f26475.css.map",
-    "main.9a1e80f3.js.map": "/employee-form-app/static/js/main.9a1e80f3.js.map"
+    "main.6553749a.js.map": "/employee-form-app/static/js/main.6553749a.js.map"
   },
   "entrypoints": [
     "static/css/main.92f26475.css",
-    "static/js/main.9a1e80f3.js"
+    "static/js/main.6553749a.js"
   ]
 }
