@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Evgen112227.github.io/employee-form-app/static/css/main.92f26475.css",
+    "main.js": "/https//Evgen112227.github.io/employee-form-app/static/js/main.9a1e80f3.js",
+    "index.html": "/https//Evgen112227.github.io/employee-form-app/index.html",
+    "main.92f26475.css.map": "/https//Evgen112227.github.io/employee-form-app/static/css/main.92f26475.css.map",
+    "main.9a1e80f3.js.map": "/https//Evgen112227.github.io/employee-form-app/static/js/main.9a1e80f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f26475.css",
+    "static/js/main.9a1e80f3.js"
+  ]
+}
